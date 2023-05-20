@@ -18,7 +18,7 @@ require __DIR__.'/auth.php';
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('welcome');
 
 Route::get('/contact',function(){
     return view('contact');
