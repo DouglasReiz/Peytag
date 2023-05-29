@@ -8,7 +8,7 @@
 
 </div>
 
-<div class="text-center mt-4">
+<div class="text-center">
     <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Bem-vindo a Peytag</h1>
     <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">A sua loja online de maneira fácil e rápida.</p>
     

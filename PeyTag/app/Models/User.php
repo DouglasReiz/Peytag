@@ -20,6 +20,16 @@ class User extends Authenticatable
     protected $fillable = [
         'name',
         'email',
+        'nome_loja',
+        'endereco',
+        'horario_funcionamento',
+        'contato_celular',
+        'contato_fixo',
+        'serviços',
+        'link_instagram',
+        'link_telegram',
+        'imagem_foco',
+        'is_whatsapp',
         'password',
     ];
 
